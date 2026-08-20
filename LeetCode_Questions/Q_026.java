@@ -1,21 +1,25 @@
 import java.util.*;
 
-public class Q_0027 {
+public class Q_026 {
 
     // Solution
-    public int removeElement(int[] nums, int val) {
+    public int removeDuplicates(int[] nums) {
 
-        int count = 0;
+        if (nums.length == 0) {
+            return 0;
+        }
 
-        for (int i = 0; i < nums.length; i++) {
+        int i = 0;
 
-            if (nums[i] != val) {
-                nums[count] = nums[i];
-                count++;
+        for (int j = 1; j < nums.length; j++) {
+
+            if (nums[j] != nums[i]) {
+                i++;
+                nums[i] = nums[j];
             }
         }
 
-        return count;
+        return i + 1;
     }
 
     public static void main(String[] args) {
@@ -31,18 +35,16 @@ public class Q_0027 {
             nums[i] = sc.nextInt();
         }
 
-        int val = sc.nextInt();
-
         // Create object
-        Q_0027 obj = new Q_0027();
+        Q_026 obj = new Q_026();
 
         // Call method
-        int k = obj.removeElement(nums, val);
+        int k = obj.removeDuplicates(nums);
 
         // Print answer
-        System.out.println("Number of remaining elements: " + k);
+        System.out.println("Number of unique elements: " + k);
 
-        System.out.print("Array after removing " + val + ": ");
+        System.out.print("Array after removing duplicates: ");
 
         for (int i = 0; i < k; i++) {
             System.out.print(nums[i] + " ");

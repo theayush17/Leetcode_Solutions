@@ -29,7 +29,7 @@
 |---|---|---|---|---|
 | 01 | [**Two Sum**](./LeetCode_Questions/Q_01.java) | [`Q_01.java`](./LeetCode_Questions/Q_01.java) | Java | Array, Hash Table |
 | 09 | [**Palindrome Number**](./LeetCode_Questions/Q_09.java) | [`Q_09.java`](./LeetCode_Questions/Q_09.java) | Java | Math |
-| 27 | [**Remove Element**](./LeetCode_Questions/Q_0027.java) | [`Q_0027.java`](./LeetCode_Questions/Q_0027.java) | Java | Array, Two Pointers |
+| 27 | [**Remove Element**](LeetCode_Questions/Q_027.java) | [`Q_0027.java`](LeetCode_Questions/Q_027.java) | Java | Array, Two Pointers |
 | 153 | [**Find Minimum in Rotated Sorted Array**](./LeetCode_Questions/Q_153.java) | [`Q_153.java`](./LeetCode_Questions/Q_153.java) | Java | Array, Binary Search |
 | 154 | [**Find Minimum in Rotated Sorted Array II**](./LeetCode_Questions/Q_154.java) | [`Q_154.java`](./LeetCode_Questions/Q_154.java) | Java | Array, Binary Search |
 | 179 | [**Largest Number**](./LeetCode_Questions/Q_179.java) | [`Q_179.java`](./LeetCode_Questions/Q_179.java) | Java | Array, String, Sorting |
