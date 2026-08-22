@@ -34,11 +34,15 @@
 | 27 | [**Remove Element**](./LeetCode_Questions/Q_027.java) | [`Q_027.java`](./LeetCode_Questions/Q_027.java) | Java | Array, Two Pointers |
 | 35 | [**Search Insert Position**](./LeetCode_Questions/Q_035.java) | [`Q_035.java`](./LeetCode_Questions/Q_035.java) | Java | Array, Binary Search |
 | 66 | [**Plus One**](./LeetCode_Questions/Q_066.java) | [`Q_066.java`](./LeetCode_Questions/Q_066.java) | Java | Array, Math |
+| 69 | [**Sqrt(x)**](./LeetCode_Questions/Q_069.java) | [`Q_069.java`](./LeetCode_Questions/Q_069.java) | Java | Math, Binary Search |
+| 70 | [**Climbing Stairs**](./LeetCode_Questions/Q_070.java) | [`Q_070.java`](./LeetCode_Questions/Q_070.java) | Java | Math, Dynamic Programming |
 | 153 | [**Find Minimum in Rotated Sorted Array**](./LeetCode_Questions/Q_153.java) | [`Q_153.java`](./LeetCode_Questions/Q_153.java) | Java | Array, Binary Search |
 | 154 | [**Find Minimum in Rotated Sorted Array II**](./LeetCode_Questions/Q_154.java) | [`Q_154.java`](./LeetCode_Questions/Q_154.java) | Java | Array, Binary Search |
 | 179 | [**Largest Number**](./LeetCode_Questions/Q_179.java) | [`Q_179.java`](./LeetCode_Questions/Q_179.java) | Java | Array, String, Sorting |
+| 189 | [**Rotate Array**](./LeetCode_Questions/Q_189.java) | [`Q_189.java`](./LeetCode_Questions/Q_189.java) | Java | Array, Two Pointers |
 | 217 | [**Contains Duplicate**](./LeetCode_Questions/Q_217.java) | [`Q_217.java`](./LeetCode_Questions/Q_217.java) | Java | Array, Hash Table, Sorting |
 | 219 | [**Contains Duplicate II**](./LeetCode_Questions/Q_219.java) | [`Q_219.java`](./LeetCode_Questions/Q_219.java) | Java | Array, Hash Table, Sliding Window |
+| 258 | [**Add Digits**](./LeetCode_Questions/Q_258.java) | [`Q_258.java`](./LeetCode_Questions/Q_258.java) | Java | Math, Simulation |
 | 316 | [**Remove Duplicate Letters**](./LeetCode_Questions/Q_316.java) | [`Q_316.java`](./LeetCode_Questions/Q_316.java) | Java | String, Stack, Greedy |
 | 500 | [**Keyboard Row**](./LeetCode_Questions/Q_500.java) | [`Q_500.java`](./LeetCode_Questions/Q_500.java) | Java | Array, Hash Table, String |
 | 523 | [**Continuous Subarray Sum**](./LeetCode_Questions/Q_523.java) | [`Q_523.java`](./LeetCode_Questions/Q_523.java) | Java | Array, Hash Table, Math, Prefix Sum |
