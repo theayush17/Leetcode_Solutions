@@ -28,12 +28,15 @@
 | # | Problem Title | Solution File | Language | Topics |
 |---|---|---|---|---|
 | 01 | [**Two Sum**](./LeetCode_Questions/Q_01.java) | [`Q_01.java`](./LeetCode_Questions/Q_01.java) | Java | Array, Hash Table |
+| 04 | [**Median of Two Sorted Arrays**](./LeetCode_Questions/Q_04.java) | [`Q_04.java`](./LeetCode_Questions/Q_04.java) | Java | Array, Binary Search, Divide and Conquer |
 | 09 | [**Palindrome Number**](./LeetCode_Questions/Q_09.java) | [`Q_09.java`](./LeetCode_Questions/Q_09.java) | Java | Math |
+| 13 | [**Roman to Integer**](./LeetCode_Questions/Q_013.java) | [`Q_013.java`](./LeetCode_Questions/Q_013.java) | Java | Hash Table, Math, String |
 | 14 | [**Longest Common Prefix**](./LeetCode_Questions/Q_014.java) | [`Q_014.java`](./LeetCode_Questions/Q_014.java) | Java | String, Trie |
 | 26 | [**Remove Duplicates from Sorted Array**](./LeetCode_Questions/Q_026.java) | [`Q_026.java`](./LeetCode_Questions/Q_026.java) | Java | Array, Two Pointers |
 | 27 | [**Remove Element**](./LeetCode_Questions/Q_027.java) | [`Q_027.java`](./LeetCode_Questions/Q_027.java) | Java | Array, Two Pointers |
 | 35 | [**Search Insert Position**](./LeetCode_Questions/Q_035.java) | [`Q_035.java`](./LeetCode_Questions/Q_035.java) | Java | Array, Binary Search |
 | 66 | [**Plus One**](./LeetCode_Questions/Q_066.java) | [`Q_066.java`](./LeetCode_Questions/Q_066.java) | Java | Array, Math |
+| 67 | [**Add Binary**](./LeetCode_Questions/Q_067.java) | [`Q_067.java`](./LeetCode_Questions/Q_067.java) | Java | Math, String, Bit Manipulation, Simulation |
 | 69 | [**Sqrt(x)**](./LeetCode_Questions/Q_069.java) | [`Q_069.java`](./LeetCode_Questions/Q_069.java) | Java | Math, Binary Search |
 | 70 | [**Climbing Stairs**](./LeetCode_Questions/Q_070.java) | [`Q_070.java`](./LeetCode_Questions/Q_070.java) | Java | Math, Dynamic Programming |
 | 153 | [**Find Minimum in Rotated Sorted Array**](./LeetCode_Questions/Q_153.java) | [`Q_153.java`](./LeetCode_Questions/Q_153.java) | Java | Array, Binary Search |
@@ -46,6 +49,7 @@
 | 316 | [**Remove Duplicate Letters**](./LeetCode_Questions/Q_316.java) | [`Q_316.java`](./LeetCode_Questions/Q_316.java) | Java | String, Stack, Greedy |
 | 500 | [**Keyboard Row**](./LeetCode_Questions/Q_500.java) | [`Q_500.java`](./LeetCode_Questions/Q_500.java) | Java | Array, Hash Table, String |
 | 523 | [**Continuous Subarray Sum**](./LeetCode_Questions/Q_523.java) | [`Q_523.java`](./LeetCode_Questions/Q_523.java) | Java | Array, Hash Table, Math, Prefix Sum |
+| 1154 | [**Day of the Year**](./LeetCode_Questions/Q_1154.java) | [`Q_1154.java`](./LeetCode_Questions/Q_1154.java) | Java | Math, String |
 | 1306 | [**Jump Game III**](./LeetCode_Questions/Q_1306.java) | [`Q_1306.java`](./LeetCode_Questions/Q_1306.java) | Java | Array, DFS, BFS |
 | 1345 | [**Jump Game IV**](./LeetCode_Questions/Q_1345.java) | [`Q_1345.java`](./LeetCode_Questions/Q_1345.java) | Java | Array, Hash Table, BFS |
 | 1665 | [**Minimum Initial Energy to Finish Tasks**](./LeetCode_Questions/Q_1665.java) | [`Q_1665.java`](./LeetCode_Questions/Q_1665.java) | Java | Array, Greedy, Sorting |
