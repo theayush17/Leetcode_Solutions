@@ -6,6 +6,8 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-theayush17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/theayush17/)
 [![Language](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Solutions Count](https://img.shields.io/badge/LeetCode%20Solutions-39-brightgreen?style=for-the-badge)](#-leetcode-solutions-index)
+[![Practice Questions](https://img.shields.io/badge/Practice%20Problems-9-blue?style=for-the-badge)](#-foundational-practice-questions)
 
 ---
 
@@ -23,30 +25,53 @@
 
 ---
 
+## 📁 Repository Structure
+
+```text
+Leetcode_Solutions/
+├── LeetCode_Questions/     # Solutions to official LeetCode problems
+│   ├── Q_01.java
+│   ├── Q_04.java
+│   └── ...
+├── Practice Questions/     # Foundational DSA practice problems & algorithms
+│   ├── countEven_Odd.java
+│   ├── linearSearch.java
+│   └── ...
+└── README.md
+```
+
+---
+
 ## 💡 LeetCode Solutions Index
 
 | # | Problem Title | Solution File | Language | Topics |
 |---|---|---|---|---|
 | 01 | [**Two Sum**](./LeetCode_Questions/Q_01.java) | [`Q_01.java`](./LeetCode_Questions/Q_01.java) | Java | Array, Hash Table |
 | 04 | [**Median of Two Sorted Arrays**](./LeetCode_Questions/Q_04.java) | [`Q_04.java`](./LeetCode_Questions/Q_04.java) | Java | Array, Binary Search, Divide and Conquer |
+| 05 | [**Longest Palindromic Substring**](./LeetCode_Questions/Q_05.java) | [`Q_05.java`](./LeetCode_Questions/Q_05.java) | Java | Two Pointers, String, Dynamic Programming |
 | 09 | [**Palindrome Number**](./LeetCode_Questions/Q_09.java) | [`Q_09.java`](./LeetCode_Questions/Q_09.java) | Java | Math |
 | 13 | [**Roman to Integer**](./LeetCode_Questions/Q_013.java) | [`Q_013.java`](./LeetCode_Questions/Q_013.java) | Java | Hash Table, Math, String |
 | 14 | [**Longest Common Prefix**](./LeetCode_Questions/Q_014.java) | [`Q_014.java`](./LeetCode_Questions/Q_014.java) | Java | String, Trie |
+| 20 | [**Valid Parentheses**](./LeetCode_Questions/Q_020.java) | [`Q_020.java`](./LeetCode_Questions/Q_020.java) | Java | String, Stack |
 | 26 | [**Remove Duplicates from Sorted Array**](./LeetCode_Questions/Q_026.java) | [`Q_026.java`](./LeetCode_Questions/Q_026.java) | Java | Array, Two Pointers |
 | 27 | [**Remove Element**](./LeetCode_Questions/Q_027.java) | [`Q_027.java`](./LeetCode_Questions/Q_027.java) | Java | Array, Two Pointers |
 | 35 | [**Search Insert Position**](./LeetCode_Questions/Q_035.java) | [`Q_035.java`](./LeetCode_Questions/Q_035.java) | Java | Array, Binary Search |
+| 58 | [**Length of Last Word**](./LeetCode_Questions/Q_058.java) | [`Q_058.java`](./LeetCode_Questions/Q_058.java) | Java | String |
 | 66 | [**Plus One**](./LeetCode_Questions/Q_066.java) | [`Q_066.java`](./LeetCode_Questions/Q_066.java) | Java | Array, Math |
 | 67 | [**Add Binary**](./LeetCode_Questions/Q_067.java) | [`Q_067.java`](./LeetCode_Questions/Q_067.java) | Java | Math, String, Bit Manipulation, Simulation |
 | 69 | [**Sqrt(x)**](./LeetCode_Questions/Q_069.java) | [`Q_069.java`](./LeetCode_Questions/Q_069.java) | Java | Math, Binary Search |
-| 70 | [**Climbing Stairs**](./LeetCode_Questions/Q_070.java) | [`Q_070.java`](./LeetCode_Questions/Q_070.java) | Java | Math, Dynamic Programming |
+| 70 | [**Climbing Stairs**](./LeetCode_Questions/Q_070.java) | [`Q_070.java`](./LeetCode_Questions/Q_070.java) | Java | Math, Dynamic Programming, Memoization |
+| 83 | [**Remove Duplicates from Sorted List**](./LeetCode_Questions/Q_083.java) | [`Q_083.java`](./LeetCode_Questions/Q_083.java) | Java | Linked List |
+| 88 | [**Merge Sorted Array**](./LeetCode_Questions/Q_088.java) | [`Q_088.java`](./LeetCode_Questions/Q_088.java) | Java | Array, Two Pointers, Sorting |
 | 153 | [**Find Minimum in Rotated Sorted Array**](./LeetCode_Questions/Q_153.java) | [`Q_153.java`](./LeetCode_Questions/Q_153.java) | Java | Array, Binary Search |
 | 154 | [**Find Minimum in Rotated Sorted Array II**](./LeetCode_Questions/Q_154.java) | [`Q_154.java`](./LeetCode_Questions/Q_154.java) | Java | Array, Binary Search |
 | 179 | [**Largest Number**](./LeetCode_Questions/Q_179.java) | [`Q_179.java`](./LeetCode_Questions/Q_179.java) | Java | Array, String, Sorting |
-| 189 | [**Rotate Array**](./LeetCode_Questions/Q_189.java) | [`Q_189.java`](./LeetCode_Questions/Q_189.java) | Java | Array, Two Pointers |
+| 189 | [**Rotate Array**](./LeetCode_Questions/Q_189.java) | [`Q_189.java`](./LeetCode_Questions/Q_189.java) | Java | Array, Two Pointers, Math |
 | 217 | [**Contains Duplicate**](./LeetCode_Questions/Q_217.java) | [`Q_217.java`](./LeetCode_Questions/Q_217.java) | Java | Array, Hash Table, Sorting |
 | 219 | [**Contains Duplicate II**](./LeetCode_Questions/Q_219.java) | [`Q_219.java`](./LeetCode_Questions/Q_219.java) | Java | Array, Hash Table, Sliding Window |
-| 258 | [**Add Digits**](./LeetCode_Questions/Q_258.java) | [`Q_258.java`](./LeetCode_Questions/Q_258.java) | Java | Math, Simulation |
-| 316 | [**Remove Duplicate Letters**](./LeetCode_Questions/Q_316.java) | [`Q_316.java`](./LeetCode_Questions/Q_316.java) | Java | String, Stack, Greedy |
+| 258 | [**Add Digits**](./LeetCode_Questions/Q_258.java) | [`Q_258.java`](./LeetCode_Questions/Q_258.java) | Java | Math, Simulation, Number Theory |
+| 283 | [**Move Zeroes**](./LeetCode_Questions/Q_0283.java) | [`Q_0283.java`](./LeetCode_Questions/Q_0283.java) | Java | Array, Two Pointers |
+| 316 | [**Remove Duplicate Letters**](./LeetCode_Questions/Q_316.java) | [`Q_316.java`](./LeetCode_Questions/Q_316.java) | Java | String, Stack, Greedy, Monotonic Stack |
 | 500 | [**Keyboard Row**](./LeetCode_Questions/Q_500.java) | [`Q_500.java`](./LeetCode_Questions/Q_500.java) | Java | Array, Hash Table, String |
 | 523 | [**Continuous Subarray Sum**](./LeetCode_Questions/Q_523.java) | [`Q_523.java`](./LeetCode_Questions/Q_523.java) | Java | Array, Hash Table, Math, Prefix Sum |
 | 1154 | [**Day of the Year**](./LeetCode_Questions/Q_1154.java) | [`Q_1154.java`](./LeetCode_Questions/Q_1154.java) | Java | Math, String |
@@ -96,6 +121,12 @@ Navigate to the root folder and execute:
 ```bash
 javac LeetCode_Questions/Q_01.java
 java LeetCode_Questions.Q_01
+```
+
+#### Example: Running LeetCode Q20 (Valid Parentheses)
+```bash
+javac LeetCode_Questions/Q_020.java
+java LeetCode_Questions.Q_020
 ```
 
 #### Example: Running a Practice Question
