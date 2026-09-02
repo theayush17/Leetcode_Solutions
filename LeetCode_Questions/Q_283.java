@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q_0283 {
+public class Q_283 {
 
     // Solution
     public void moveZeroes(int[] nums) {
@@ -37,7 +37,7 @@ public class Q_0283 {
         }
 
         // Create object
-        Q_0283 obj = new Q_0283();
+        Q_283 obj = new Q_283();
 
         // Call method
         obj.moveZeroes(nums);
