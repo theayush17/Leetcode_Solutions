@@ -7,8 +7,8 @@
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-theayush17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/theayush17/)
 [![Language](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Language](https://img.shields.io/badge/Language-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Solutions Count](https://img.shields.io/badge/LeetCode%20Solutions-54-brightgreen?style=for-the-badge)](#-leetcode-solutions-index)
-[![Practice Questions](https://img.shields.io/badge/Practice%20Problems-9-blue?style=for-the-badge)](#-foundational-practice-questions)
+[![Solutions Count](https://img.shields.io/badge/LeetCode%20Solutions-63-brightgreen?style=for-the-badge)](#-leetcode-solutions-index)
+[![Practice Questions](https://img.shields.io/badge/Practice%20Problems-10-blue?style=for-the-badge)](#-foundational-practice-questions)
 
 ---
 
@@ -53,9 +53,11 @@ Leetcode_Solutions/
 | 04 | [**Median of Two Sorted Arrays**](./LeetCode_Questions/Q_04.java) | [`Q_04.java`](./LeetCode_Questions/Q_04.java) | Java | Array, Binary Search, Divide and Conquer |
 | 05 | [**Longest Palindromic Substring**](./LeetCode_Questions/Q_05.java) | [`Q_05.java`](./LeetCode_Questions/Q_05.java) | Java | Two Pointers, String, Dynamic Programming |
 | 09 | [**Palindrome Number**](./LeetCode_Questions/Q_09.java) | [`Q_09.java`](./LeetCode_Questions/Q_09.java) | Java | Math |
+| 11 | [**Container With Most Water**](./LeetCode_Questions/Q_011.java) | [`Q_011.java`](./LeetCode_Questions/Q_011.java) | Java | Array, Two Pointers, Greedy |
 | 12 | [**Integer to Roman**](./LeetCode_Questions/Q_012.java) | [`Q_012.java`](./LeetCode_Questions/Q_012.java) | Java | Hash Table, Math, String |
 | 13 | [**Roman to Integer**](./LeetCode_Questions/Q_013.java) | [`Q_013.java`](./LeetCode_Questions/Q_013.java) | Java | Hash Table, Math, String |
 | 14 | [**Longest Common Prefix**](./LeetCode_Questions/Q_014.java) | [`Q_014.java`](./LeetCode_Questions/Q_014.java) | Java | String, Trie |
+| 15 | [**3Sum**](./LeetCode_Questions/Q_015.java) | [`Q_015.java`](./LeetCode_Questions/Q_015.java) | Java | Array, Two Pointers, Sorting |
 | 20 | [**Valid Parentheses**](./LeetCode_Questions/Q_020.java) | [`Q_020.java`](./LeetCode_Questions/Q_020.java) | Java | String, Stack |
 | 21 | [**Merge Two Sorted Lists**](./LeetCode_Questions/Q_021.java) | [`Q_021.java`](./LeetCode_Questions/Q_021.java) | Java | Linked List, Recursion |
 | 26 | [**Remove Duplicates from Sorted Array**](./LeetCode_Questions/Q_026.java) | [`Q_026.java`](./LeetCode_Questions/Q_026.java) | Java | Array, Two Pointers |
@@ -71,6 +73,7 @@ Leetcode_Solutions/
 | 88 | [**Merge Sorted Array**](./LeetCode_Questions/Q_088.java) | [`Q_088.java`](./LeetCode_Questions/Q_088.java) | Java | Array, Two Pointers, Sorting |
 | 153 | [**Find Minimum in Rotated Sorted Array**](./LeetCode_Questions/Q_153.java) | [`Q_153.java`](./LeetCode_Questions/Q_153.java) | Java | Array, Binary Search |
 | 154 | [**Find Minimum in Rotated Sorted Array II**](./LeetCode_Questions/Q_154.java) | [`Q_154.java`](./LeetCode_Questions/Q_154.java) | Java | Array, Binary Search |
+| 169 | [**Majority Element**](./LeetCode_Questions/Q_169.java) | [`Q_169.java`](./LeetCode_Questions/Q_169.java) | Java | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 171 | [**Excel Sheet Column Number**](./LeetCode_Questions/Q_0171.java) | [`Q_0171.java`](./LeetCode_Questions/Q_0171.java) | Java | Math, String |
 | 175 | [**Combine Two Tables**](./LeetCode_Questions/Q_175.sql) | [`Q_175.sql`](./LeetCode_Questions/Q_175.sql) | MySQL | Database |
 | 179 | [**Largest Number**](./LeetCode_Questions/Q_179.java) | [`Q_179.java`](./LeetCode_Questions/Q_179.java) | Java | Array, String, Sorting |
@@ -84,10 +87,14 @@ Leetcode_Solutions/
 | 258 | [**Add Digits**](./LeetCode_Questions/Q_258.java) | [`Q_258.java`](./LeetCode_Questions/Q_258.java) | Java | Math, Simulation, Number Theory |
 | 283 | [**Move Zeroes**](./LeetCode_Questions/Q_283.java) | [`Q_283.java`](./LeetCode_Questions/Q_283.java) | Java | Array, Two Pointers |
 | 316 | [**Remove Duplicate Letters**](./LeetCode_Questions/Q_316.java) | [`Q_316.java`](./LeetCode_Questions/Q_316.java) | Java | String, Stack, Greedy, Monotonic Stack |
+| 389 | [**Find the Difference**](./LeetCode_Questions/Q_389.java) | [`Q_389.java`](./LeetCode_Questions/Q_389.java) | Java | Hash Table, String, Bit Manipulation, Sorting |
+| 415 | [**Add Strings**](./LeetCode_Questions/Q_415.java) | [`Q_415.java`](./LeetCode_Questions/Q_415.java) | Java | Math, String, Simulation |
 | 500 | [**Keyboard Row**](./LeetCode_Questions/Q_500.java) | [`Q_500.java`](./LeetCode_Questions/Q_500.java) | Java | Array, Hash Table, String |
+| 520 | [**Detect Capital**](./LeetCode_Questions/Q_520.java) | [`Q_520.java`](./LeetCode_Questions/Q_520.java) | Java | String |
 | 523 | [**Continuous Subarray Sum**](./LeetCode_Questions/Q_523.java) | [`Q_523.java`](./LeetCode_Questions/Q_523.java) | Java | Array, Hash Table, Math, Prefix Sum |
 | 577 | [**Employee Bonus**](./LeetCode_Questions/Q_577.sql) | [`Q_577.sql`](./LeetCode_Questions/Q_577.sql) | MySQL | Database |
 | 595 | [**Big Countries**](./LeetCode_Questions/Q_595.sql) | [`Q_595.sql`](./LeetCode_Questions/Q_595.sql) | MySQL | Database |
+| 619 | [**Biggest Single Number**](./LeetCode_Questions/Q_619.sql) | [`Q_619.sql`](./LeetCode_Questions/Q_619.sql) | MySQL | Database |
 | 1154 | [**Day of the Year**](./LeetCode_Questions/Q_1154.java) | [`Q_1154.java`](./LeetCode_Questions/Q_1154.java) | Java | Math, String |
 | 1306 | [**Jump Game III**](./LeetCode_Questions/Q_1306.java) | [`Q_1306.java`](./LeetCode_Questions/Q_1306.java) | Java | Array, DFS, BFS |
 | 1345 | [**Jump Game IV**](./LeetCode_Questions/Q_1345.java) | [`Q_1345.java`](./LeetCode_Questions/Q_1345.java) | Java | Array, Hash Table, BFS |
@@ -98,6 +105,8 @@ Leetcode_Solutions/
 | 2657 | [**Find the Prefix Common Array of Two Arrays**](./LeetCode_Questions/Q_2657.java) | [`Q_2657.java`](./LeetCode_Questions/Q_2657.java) | Java | Array, Hash Table, Bit Manipulation |
 | 2770 | [**Maximum Number of Jumps to Reach the Last Index**](./LeetCode_Questions/Q_2770.java) | [`Q_2770.java`](./LeetCode_Questions/Q_2770.java) | Java | Array, Dynamic Programming |
 | 2784 | [**Check if Array is Good**](./LeetCode_Questions/Q_2784.java) | [`Q_2784.java`](./LeetCode_Questions/Q_2784.java) | Java | Array, Hash Table, Counting |
+| 2798 | [**Number of Employees Who Met the Target**](./LeetCode_Questions/Q_2798.java) | [`Q_2798.java`](./LeetCode_Questions/Q_2798.java) | Java | Array |
+| 2815 | [**Max Pair Sum in an Array**](./LeetCode_Questions/Q_2815.java) | [`Q_2815.java`](./LeetCode_Questions/Q_2815.java) | Java | Array, Hash Table |
 | 3925 | [**Array Concatenation & Reversal**](./LeetCode_Questions/Q_3925.java) | [`Q_3925.java`](./LeetCode_Questions/Q_3925.java) | Java | Array, Simulation |
 | 4038 | [**Count Integers Appearing in a Single Block**](./LeetCode_Questions/Q_4038.java) | [`Q_4038.java`](./LeetCode_Questions/Q_4038.java) | Java | Array, Hash Table, Counting |
 | 4039 | [**Sum of Decoded Numbers**](./LeetCode_Questions/Q_4039.java) | [`Q_4039.java`](./LeetCode_Questions/Q_4039.java) | Java | Array, Math, Simulation |
@@ -114,6 +123,7 @@ Leetcode_Solutions/
 | [**Find Maximum Element**](./Practice%20Questions/maxElement.java) | [`maxElement.java`](./Practice%20Questions/maxElement.java) | Java |
 | [**Find Minimum Element**](./Practice%20Questions/minElement.java) | [`minElement.java`](./Practice%20Questions/minElement.java) | Java |
 | [**Find Missing Number**](./Practice%20Questions/missingNumber.java) | [`missingNumber.java`](./Practice%20Questions/missingNumber.java) | Java |
+| [**Palindrome String**](./Practice%20Questions/palindromeString.java) | [`palindromeString.java`](./Practice%20Questions/palindromeString.java) | Java |
 | [**Remove Duplicates**](./Practice%20Questions/removeDuplicates.java) | [`removeDuplicates.java`](./Practice%20Questions/removeDuplicates.java) | Java |
 | [**Reverse Array**](./Practice%20Questions/reverseArray.java) | [`reverseArray.java`](./Practice%20Questions/reverseArray.java) | Java |
 | [**Subarray Sum Check**](./Practice%20Questions/subArraySum.java) | [`subArraySum.java`](./Practice%20Questions/subArraySum.java) | Java |
