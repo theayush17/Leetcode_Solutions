@@ -7,7 +7,7 @@
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-theayush17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/theayush17/)
 [![Language](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Language](https://img.shields.io/badge/Language-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Solutions Count](https://img.shields.io/badge/LeetCode%20Solutions-63-brightgreen?style=for-the-badge)](#-leetcode-solutions-index)
+[![Solutions Count](https://img.shields.io/badge/LeetCode%20Solutions-66-brightgreen?style=for-the-badge)](#-leetcode-solutions-index)
 [![Practice Questions](https://img.shields.io/badge/Practice%20Problems-10-blue?style=for-the-badge)](#-foundational-practice-questions)
 
 ---
@@ -88,13 +88,16 @@ Leetcode_Solutions/
 | 283 | [**Move Zeroes**](./LeetCode_Questions/Q_283.java) | [`Q_283.java`](./LeetCode_Questions/Q_283.java) | Java | Array, Two Pointers |
 | 316 | [**Remove Duplicate Letters**](./LeetCode_Questions/Q_316.java) | [`Q_316.java`](./LeetCode_Questions/Q_316.java) | Java | String, Stack, Greedy, Monotonic Stack |
 | 389 | [**Find the Difference**](./LeetCode_Questions/Q_389.java) | [`Q_389.java`](./LeetCode_Questions/Q_389.java) | Java | Hash Table, String, Bit Manipulation, Sorting |
+| 414 | [**Third Maximum Number**](./LeetCode_Questions/Q_414.java) | [`Q_414.java`](./LeetCode_Questions/Q_414.java) | Java | Array, Sorting |
 | 415 | [**Add Strings**](./LeetCode_Questions/Q_415.java) | [`Q_415.java`](./LeetCode_Questions/Q_415.java) | Java | Math, String, Simulation |
 | 500 | [**Keyboard Row**](./LeetCode_Questions/Q_500.java) | [`Q_500.java`](./LeetCode_Questions/Q_500.java) | Java | Array, Hash Table, String |
 | 520 | [**Detect Capital**](./LeetCode_Questions/Q_520.java) | [`Q_520.java`](./LeetCode_Questions/Q_520.java) | Java | String |
 | 523 | [**Continuous Subarray Sum**](./LeetCode_Questions/Q_523.java) | [`Q_523.java`](./LeetCode_Questions/Q_523.java) | Java | Array, Hash Table, Math, Prefix Sum |
 | 577 | [**Employee Bonus**](./LeetCode_Questions/Q_577.sql) | [`Q_577.sql`](./LeetCode_Questions/Q_577.sql) | MySQL | Database |
 | 595 | [**Big Countries**](./LeetCode_Questions/Q_595.sql) | [`Q_595.sql`](./LeetCode_Questions/Q_595.sql) | MySQL | Database |
+| 599 | [**Minimum Index Sum of Two Lists**](./LeetCode_Questions/Q_599.java) | [`Q_599.java`](./LeetCode_Questions/Q_599.java) | Java | Array, Hash Table, String |
 | 619 | [**Biggest Single Number**](./LeetCode_Questions/Q_619.sql) | [`Q_619.sql`](./LeetCode_Questions/Q_619.sql) | MySQL | Database |
+| 645 | [**Set Mismatch**](./LeetCode_Questions/Q_645.java) | [`Q_645.java`](./LeetCode_Questions/Q_645.java) | Java | Array, Hash Table, Bit Manipulation, Sorting |
 | 1154 | [**Day of the Year**](./LeetCode_Questions/Q_1154.java) | [`Q_1154.java`](./LeetCode_Questions/Q_1154.java) | Java | Math, String |
 | 1306 | [**Jump Game III**](./LeetCode_Questions/Q_1306.java) | [`Q_1306.java`](./LeetCode_Questions/Q_1306.java) | Java | Array, DFS, BFS |
 | 1345 | [**Jump Game IV**](./LeetCode_Questions/Q_1345.java) | [`Q_1345.java`](./LeetCode_Questions/Q_1345.java) | Java | Array, Hash Table, BFS |
